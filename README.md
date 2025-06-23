@@ -7,7 +7,7 @@ This project was created as a part of **Web Development Internship Level 1, Task
 ## Live Demo
 
 You can view the live site here:  
-[https://vedasai-rishi.github.io/portfolio/](https://vedasai-rishi.github.io/portfolio/)
+[https://vedasai-rishi.github.io/portfolio/](https://vedasai-rishi.github.io/OIBSIP-Portfolio/)
 
 ## Features
 
